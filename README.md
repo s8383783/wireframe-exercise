@@ -1,2 +1,2 @@
-# wireframe-exercise
-Wireframe for 201 assignment
+# Wire Frame
+201 assignment
