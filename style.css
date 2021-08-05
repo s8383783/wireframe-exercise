@@ -39,7 +39,7 @@ header {
   }
   
   section:nth-child(2) img {
-    height: 375px;
+    height: 380px;
     margin: auto 15px;
   }
   
@@ -69,6 +69,7 @@ header {
     padding-bottom: 0px;
   
     margin-top: 2px;
+    font-style: oblique;
   }
   
   p {
@@ -78,7 +79,7 @@ header {
     height: 350px;
     width:480px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-top: -20px; 
+    margin-top: 0px; 
   }
   
   button {
@@ -89,7 +90,7 @@ header {
     border-radius: 2px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     height: 33px;
-    margin: -10px;
+    margin: -5px;
     margin-left: 2px;
     font-size: small;
   }
