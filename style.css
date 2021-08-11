@@ -94,6 +94,11 @@ header {
     margin-left: 2px;
     font-size: small;
   }
+
+  button:hover {
+    color:red;
+
+  }
   
   footer {
   background-color: rgb(78, 77, 77);
